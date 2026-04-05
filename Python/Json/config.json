@@ -1,0 +1,9 @@
+{
+    "env": "prod",
+    "servers": [
+        "app1",
+        "app2",
+        "app3"
+    ],
+    "timeout": 60
+}
